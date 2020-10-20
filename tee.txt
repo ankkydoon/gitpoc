@@ -1,0 +1,183 @@
+
+
+
+HDFC BANK Ltd.                                     Page No .:   1                                        Statement of accounts
+
+
+                                                                         Account Branch : KORAMANGALA 1ST BLOCK BANGALORE
+                                                                         Address        : RVP MAGNOLIA,
+                                                                                          SITE NO 32,1ST MAIN,
+MR      ANKIT BHATT                                                                       KORAMANGALA 1ST BLOCK BANGALORE
+POWER SCHOOL INDIA PVT LTD 8TH                                           City           : BANGALORE 560034
+FLOOR WING-A PRIMROSE-7B EMBASSY                                         State          : KARNATAKA
+TECH VILLAGE                                                             Phone no.      : 080-61606161
+BANGALORE 560103                                                         Email          : BHATTANKIT2008@GMAIL.COM
+KARNATAKA INDIA                                                          OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 115726868
+JOINT HOLDERS :                                                          Account No     : 50100244137645   VRM POTENTIAL
+                                                                         A/C Open Date  : 14/11/2018
+Nomination : Not Registered                                              Account Status : Regular  
+Statement From      : 01/12/2019  To: 31/12/2019                         RTGS/NEFT IFSC : HDFC0004460    MICR : 560240142   
+                                                                         Branch Code    : 4460     Product Code : 113     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+01/12/19  IMPS-933513160839-MEGHA SAKLANI-SBIN-XXX  0000933513160839  01/12/19          40,000.00                             163,111.19   
+          XXXX8261-CC BILLS                                                                                                                 
+01/12/19  UPI-SAKLANI MEGHA-SAKLANI.MEGHA@OKHDFCBA  0000933513374505  01/12/19               1.00                             163,110.19   
+          NK-HDFC0001228-933513137653-UPI                                                                                                   
+01/12/19  UPI-SAKLANI MEGHA-SAKLANI.MEGHA@OKHDFCBA  0000933513382829  01/12/19          99,999.00                              63,111.19   
+          NK-HDFC0001228-933513142933-MEGHA                                                                                                 
+01/12/19  UPI-GOOGLEPAY-GOOG-PAYMENT@OKAXIS-UTIB00  0000933513536274  01/12/19                                 18.00           63,129.19   
+          00553-933513523847-UPI                                                                                                            
+01/12/19  UPI-GOOGLEPAY-GOOG-PAYMENT@OKAXIS-UTIB00  0000933513536475  01/12/19                                  5.00           63,134.19   
+          00553-933513524412-UPI                                                                                                            
+01/12/19  UPI-GOOGLEPAY-GOOG-PAYMENT@OKAXIS-UTIB00  0000933513536782  01/12/19                                 15.00           63,149.19   
+          00553-933513525483-UPI                                                                                                            
+01/12/19  IMPS-933514387204-NIKHILESH AGARWAL-SBIN  0000933514387204  01/12/19             100.00                              63,049.19   
+          -XXXXXXX2492-ANKIT                                                                                                                
+01/12/19  50100167739410-TPT-ANKIT-SAKLANI MEGHA    0000000497705152  01/12/19             100.00                              62,949.19   
+01/12/19  50100167739410-TPT-AA-SAKLANI MEGHA       0000000499045240  01/12/19               1.00                              62,948.19   
+01/12/19  IMPS-933516349827-MEGHAHDFC-HDFC-XXXXXXX  0000933516349827  01/12/19               1.00                              62,947.19   
+          XXX9410-TEST                                                                                                                      
+01/12/19  IMPS-933516353253-MEGHA SAKLANI-SBIN-XXX  0000933516353253  01/12/19          40,000.00                              22,947.19   
+          XXXX8261-TEST                                                                                                                     
+01/12/19  IMPS-933516348522-MEGHA SAKLANI-SBIN-XXX  0000933516348522  01/12/19          10,000.00                              12,947.19   
+          XXXX8261-ANKIT                                                                                                                    
+01/12/19  POS 416021XXXXXX4782 NATURALS SPA         0000000000002502  01/12/19             413.00                              12,534.19   
+01/12/19  POS 416021XXXXXX4782 SHREE RAMDEV MED     0000933514836970  01/12/19           1,345.00                              11,189.19   
+03/12/19  UPI-AABSWEETS-A2BKARNATAKA@YBL-YESB0YBLU  0000093379761471  03/12/19             133.25                              11,055.94   
+          PI-933709600957-PAYMENT FROM PHONE                                                                                                
+03/12/19  UPI-PAYTM MARKETPLACE-PAYTM-8726141@PAYT  0000933713353654  03/12/19             500.00                              10,555.94   
+          M-PYTM0123456-933737654646-OID9820861197                                                                                          
+          @PAYT                                                                                                                             
+05/12/19  POS 416021XXXXXX4782 SRI ANNAPURNA PE     0000933904350089  05/12/19             500.00                              10,055.94   
+07/12/19  EMI 65897498 CHQ S658974980091 121965897  0000000065897498  07/12/19          19,094.00                              -9,038.06   
+          498                                                                                                                               
+07/12/19  EMI 65897498 CHQ S658974980091 121965897  0000000065897498  07/12/19                             19,094.00           10,055.94   
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   2                                        Statement of accounts
+
+
+                                                                         Account Branch : KORAMANGALA 1ST BLOCK BANGALORE
+                                                                         Address        : RVP MAGNOLIA,
+                                                                                          SITE NO 32,1ST MAIN,
+MR      ANKIT BHATT                                                                       KORAMANGALA 1ST BLOCK BANGALORE
+POWER SCHOOL INDIA PVT LTD 8TH                                           City           : BANGALORE 560034
+FLOOR WING-A PRIMROSE-7B EMBASSY                                         State          : KARNATAKA
+TECH VILLAGE                                                             Phone no.      : 080-61606161
+BANGALORE 560103                                                         Email          : BHATTANKIT2008@GMAIL.COM
+KARNATAKA INDIA                                                          OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 115726868
+JOINT HOLDERS :                                                          Account No     : 50100244137645   VRM POTENTIAL
+                                                                         A/C Open Date  : 14/11/2018
+Nomination : Not Registered                                              Account Status : Regular  
+Statement From      : 01/12/2019  To: 31/12/2019                         RTGS/NEFT IFSC : HDFC0004460    MICR : 560240142   
+                                                                         Branch Code    : 4460     Product Code : 113     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+          498                                                                                                                               
+08/12/19  EMI 65897498 CHQ S658974980091 121965897  000000000000000   08/12/19          10,055.94                                   0.00   
+          498-65897498                                                                                                                      
+09/12/19  CRV POS 416021******4782 1205 BPCL 0.75%  000000000000000   09/12/19                                  3.75                3.75   
+10/12/19  EMI 65897498 CHQ S658974980091 121965897  000000000000000   10/12/19               3.75                                   0.00   
+          498-65897498                                                                                                                      
+17/12/19  UPI-SAKLANI MEGHA-SAKLANI.MEGHA@OKHDFCBA  0000935111161230  17/12/19                             50,000.00           50,000.00   
+          NK-HDFC0001228-935111651405-EMI                                                                                                   
+18/12/19  EMI 65897498 CHQ S658974980091 121965897  000000000000000   18/12/19           9,034.31                              40,965.69   
+          498-65897498                                                                                                                      
+18/12/19  IMPS-935207389462-ANKIT BHATT-BARB-XXXXX  0000935207389462  18/12/19          40,000.00                                 965.69   
+          XXXXX2585-EMI HOME                                                                                                                
+18/12/19  UPI-SAKLANI MEGHA-SAKLANI.MEGHA@OKHDFCBA  0000935213173598  18/12/19                             50,000.00           50,965.69   
+          NK-HDFC0001228-935213206318-BILL                                                                                                  
+18/12/19  1812 OVERDUE LOAN -65897498 RECOVERED     000000000000000   18/12/19             924.00                              50,041.69   
+18/12/19  POS 416021XXXXXX4782 MULTY MART           0000000000000107  18/12/19           1,980.00                              48,061.69   
+18/12/19  POS 416021XXXXXX4782 ADHITHYA ENTERPR     0000935215019268  18/12/19           1,000.00                              47,061.69   
+18/12/19  IMPS-935223311225-ANKIT BHATT-BARB-XXXXX  0000935223311225  18/12/19          40,000.00                               7,061.69   
+          XXXXX2585-LOAN                                                                                                                    
+20/12/19  POS 416021XXXXXX4782 ADYAR ANANDA BHA     0000935413229790  20/12/19           1,696.00                               5,365.69   
+20/12/19  POS 416021XXXXXX4782 BALAJI MEDICAL       0000000000014060  20/12/19             290.00                               5,075.69   
+21/12/19  CRV POS 416021******4782 1218 ADHITHYA E  000000000000000   21/12/19                                  7.50            5,083.19   
+21/12/19  CRV POS 416021******4782 1028 SRI SAPTHA  000000000000000   21/12/19                                  3.75            5,086.94   
+21/12/19  CRV POS 416021******4782 1013 SRI SAPTHA  000000000000000   21/12/19                                  3.75            5,090.69   
+23/12/19  POS 416021XXXXXX4782 ADYAR ANANDA BHA     0000935710365096  23/12/19             121.00                               4,969.69   
+24/12/19  POS 416021XXXXXX4782 ADYAR ANANDA BHA     0000935810972012  24/12/19             115.50                               4,854.19   
+24/12/19  POS 416021XXXXXX4782 ADYAR ANANDA BHA     0000935810976457  24/12/19              79.00                               4,775.19   
+24/12/19  POS 416021XXXXXX4782 PAYTM                0000935806066161  24/12/19              46.12                               4,729.07   
+24/12/19  POS 416021XXXXXX4782 SUPER SHOP           0000935811422610  24/12/19             140.00                               4,589.07   
+25/12/19  POS 416021XXXXXX4782 PRIYADARSHINI VE     0000935904688257  25/12/19             115.00                               4,474.07   
+25/12/19  UPI-PRASANTA KUMAR SAHA-PKS87007-1@OKHDF  0000935913864589  25/12/19             340.00                               4,134.07   
+          CBANK-HDFC0004460-935913594570-UPI                                                                                                
+26/12/19  POS 416021XXXXXX4782 APPLE.COM/BILL       0000936042967426  26/12/19              75.00                               4,059.07   
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   3                                        Statement of accounts
+
+
+                                                                         Account Branch : KORAMANGALA 1ST BLOCK BANGALORE
+                                                                         Address        : RVP MAGNOLIA,
+                                                                                          SITE NO 32,1ST MAIN,
+MR      ANKIT BHATT                                                                       KORAMANGALA 1ST BLOCK BANGALORE
+POWER SCHOOL INDIA PVT LTD 8TH                                           City           : BANGALORE 560034
+FLOOR WING-A PRIMROSE-7B EMBASSY                                         State          : KARNATAKA
+TECH VILLAGE                                                             Phone no.      : 080-61606161
+BANGALORE 560103                                                         Email          : BHATTANKIT2008@GMAIL.COM
+KARNATAKA INDIA                                                          OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 115726868
+JOINT HOLDERS :                                                          Account No     : 50100244137645   VRM POTENTIAL
+                                                                         A/C Open Date  : 14/11/2018
+Nomination : Not Registered                                              Account Status : Regular  
+Statement From      : 01/12/2019  To: 31/12/2019                         RTGS/NEFT IFSC : HDFC0004460    MICR : 560240142   
+                                                                         Branch Code    : 4460     Product Code : 113     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+27/12/19  UPI-AMIT KUMAR-AMITKUMARCS08@OKHDFCBANK-  0000936115916829  27/12/19             650.00                               3,409.07   
+          HDFC0002394-936115838003-DAROO PARTY                                                                                              
+28/12/19  UPI-BHARATPE MERCHANT-BHARATPE9020003387  0000936215408621  28/12/19              80.00                               3,329.07   
+          7@YESBANKLTD-YESB0000004-936215620658-VE                                                                                          
+          RIFIED MERCHANT                                                                                                                   
+28/12/19  UPI-SHAUKAT ALI KHAN-INTERIOR.KHAN85-1@O  0000936219387170  28/12/19           2,000.00                               1,329.07   
+          KHDFCBANK-HDFC0004094-936219398226-UPI                                                                                            
+30/12/19  SALARY FOR DEC 2019                       0000912270149568  30/12/19                            178,786.00          180,115.07   
+30/12/19  EAW-416021XXXXXX4782-00009863-BANGALORE   0000936401456446  30/12/19           1,500.00                             178,615.07   
+30/12/19  POS 416021XXXXXX4782 VEGBYNATURE          0000000000007979  30/12/19             120.00                             178,495.07   
+31/12/19  POS 416021XXXXXX4782 SREE KODANDARAMA     0000000000002998  31/12/19           1,000.00                             177,495.07   
+31/12/19  IMPS-936512176040-ANKIT BHATT SBI-SBIN-X  0000936512176040  31/12/19          16,000.00                             161,495.07   
+          XXXXXXXXXXXX7602-CAR LOAN                                                                                                         
+31/12/19  UPI-PAYTM-ADD-MONEY@PAYTM-PYTM0123456-93  0000936515348981  31/12/19              20.00                             161,475.07   
+          6515225489-OID10017143233@PAY                                                                                                     
+01/01/20  CREDIT INTEREST CAPITALISED               000000000000000   31/12/19                                336.00          161,811.07   
+
+
+********  ****************************************  ****************  ********  ******************  ******************  ******************
+******************************************************************************************************************************************
+
+         STATEMENT SUMMARY  :- 
+           Opening Balance                                                      Debits              Credits          Closing Bal 
+                203,111.19                                                  339,572.87           298,272.75           161,811.07 
+
+                                                                              Dr Count             Cr Count 
+                                                                                    41                   12 
+
+
+             Generated On:   06-Jan-2020 15:47                   Generated By: 115726868             Requesting Branch Code: NET 
+
+
+State account branch GSTN:29AAACH2702H1ZW
+ HDFC Bank GSTIN number details are available at https://www.hdfcbank.com/personal/making-payments/online-tax-payment/goods-and-service-tax
+           Registered Office Address: HDFC Bank House, Senapati Bapat Marg, Lower Parel, Mumbai 400013	 
+                                            ---  End Of Statement ---  
+
